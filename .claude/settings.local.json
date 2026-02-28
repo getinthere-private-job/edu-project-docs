@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pip install olefile pyhwp)",
+      "Bash(python -m hwp5.hwp5txt \"훈련운영계획서.hwp\")",
+      "Bash(python -c \":*)",
+      "Read(//c/Users/G/ncs-ssr/src/main/java/shop/mtcoding/blog/web/**)",
+      "Read(//c/Users/G/ncs-ssr/src/main/java/**)"
+    ]
+  }
+}
